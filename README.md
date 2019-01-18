@@ -1,9 +1,6 @@
-# README
+# Ruby Example - Simple TaxiSharing service for Postechian.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+This app is simple Example for Ruby Project. This app is about TaxiSharing for Postech students.
 
 * Ruby version
 
